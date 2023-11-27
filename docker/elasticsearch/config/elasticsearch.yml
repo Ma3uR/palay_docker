@@ -1,0 +1,8 @@
+# elasticsearch.yml
+
+cluster.name: my-cluster
+node.name: fea210c40896
+discovery.type: single-node
+network.host: 0.0.0.0
+http.port: 9200
+xpack.security.enabled: false
